@@ -9,6 +9,10 @@ We were able to use our google maps API using createing a travel route between c
 As we did in our previous version we allowed our user to have the ablility to choose the region and destination that best fits them.
 Fianlly we were able to have our user choose routes by cities, with the ability to add in a travel mode. 
 
+
+![](Images/WeatherPy_travel_map_markers.png)
+
+
 ## Conclusion:
 Our app was able to help users plan routes by region, city and choose the modes that best fit thier needs. The "PLANMYTRIP" app was a great success! 
 This is just the begining opportunities for up and coming back packers.
